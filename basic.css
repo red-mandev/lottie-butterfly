@@ -1,0 +1,347 @@
+body {
+  overflow: hidden;
+
+  background-image: url(1.webp);
+  background-repeat: no-repeat;
+  background-size: 250%;
+  height: 100vh;
+}
+
+.background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.scene3d {
+  perspective: 1000px;
+  perspective-origin: 50% 50%;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+}
+
+.skybox.cube {
+  position: absolute;
+  width: 512px;
+  height: 512px;
+  left: 50%;
+  top: 50%;
+  margin-left: -256px;
+  margin-top: -256px;
+  transform-style: preserve-3d;
+  animation: rotatingY 40s linear infinite;
+}
+
+.skybox.cube .face {
+  position: absolute;
+  width: 512px;
+  height: 512px;
+  left: 50%;
+  top: 50%;
+  margin-left: -256px;
+  margin-top: -256px;
+  backface-visibility: hidden;
+}
+
+.skybox.cube .face.front {
+  transform: rotateY(0deg) translateZ(-256px);
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78881/clouds_front.jpg");
+}
+
+.skybox.cube .face.back {
+  transform: rotateY(180deg) translateZ(-256px);
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78881/clouds_back.jpg");
+}
+
+.skybox.cube .face.right {
+  transform: rotateY(-90deg) translateZ(-256px);
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78881/clouds_right.jpg");
+}
+
+.skybox.cube .face.left {
+  transform: rotateY(90deg) translateZ(-256px);
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78881/clouds_left.jpg");
+}
+
+.skybox.cube .face.top {
+  transform: rotateX(-90deg) translateZ(-256px);
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78881/clouds_top.jpg");
+}
+
+.skybox.cube .face.bottom {
+  transform: rotateX(90deg) translateZ(-256px);
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78881/hazy_lake_top.jpg");
+}
+
+.bubble {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 150px;
+  height: 150px;
+  margin-left: -100px;
+  margin-top: -100px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+}
+
+.butterfly_container {
+  width: 100px;
+  height: 100px;
+  transform-origin: 50% 50%;
+  transform-style: preserve-3d;
+}
+
+figure.butterfly {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: -50px;
+  margin-top: -50px;
+  transform-style: preserve-3d;
+  transform-origin: 50% 50%;
+}
+
+figure.butterfly .wing {
+  position: absolute;
+  width: 50px;
+  height: 100px;
+  transform-style: preserve-3d;
+  transform-origin: 50% 50%;
+}
+
+figure.butterfly .wing.right {
+  transform-origin: 50px 50px;
+  transform: translate3d(0px, 0, 0) scaleX(-1) rotate3d(0, 1, 0, 45deg);
+  animation: right-wing-flap 0.5s ease-in-out infinite;
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+
+figure.butterfly .wing.left {
+  transform-origin: 50px 50px;
+  animation: left-wing-flap 0.5s ease-in-out infinite;
+}
+
+figure.butterfly .wing use {
+  display: block;
+  transform-style: preserve-3d;
+  fill: url(#image);
+  stroke: white;
+}
+
+.svg-defs {
+  position: absolute;
+  height: 0;
+  width: 0;
+}
+
+@keyframes rotatingY {
+  100% {
+    transform: rotateY(-360deg);
+  }
+}
+
+@keyframes left-wing-flap {
+  0% {
+    transform: translate3d(0, 0, 0) scaleX(1) rotate3d(0, 1, 0, 60deg);
+  }
+  50% {
+    transform: translate3d(0, 0, 0) scaleX(1) rotate3d(0, 1, 0, -70deg);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scaleX(1) rotate3d(0, 1, 0, 60deg);
+  }
+}
+
+@keyframes right-wing-flap {
+  0% {
+    transform: translate3d(0, 0, 0) scaleX(-1) rotate3d(0, 1, 0, 60deg);
+  }
+  50% {
+    transform: translate3d(0, 0, 0) scaleX(-1) rotate3d(0, 1, 0, -70deg);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scaleX(-1) rotate3d(0, 1, 0, 60deg);
+  }
+}
+
+:root {
+  font-size: 2vmin;
+
+  --inset-color1: #00a4ef;
+  --inset-color2: #b985d0;
+  --inset-color3: #357bd2;
+  --inset-color4: #fff;
+  --transition: all 1s linear;
+}
+
+.bubble {
+  position: absolute;
+  width: var(--bubble-size);
+  height: var(--bubble-size);
+  border-radius: 50%;
+  box-shadow: inset 0 0 calc(var(--bubble-size) / 8) rgba(255, 255, 255, 0.25);
+  animation: animate 8s ease-in-out infinite;
+  transition: var(--transition);
+}
+
+.bubble1 {
+  --bubble-size: 20rem;
+  --origin-transform: calc(50% - var(--bubble-size) / 2);
+
+  top: var(--origin-transform);
+  left: var(--origin-transform);
+}
+
+.bubble2 {
+  --bubble-size: 5rem;
+
+  top: calc(35% - var(--bubble-size) / 2);
+  left: calc(30% - var(--bubble-size) / 2);
+  animation-delay: 0.1s;
+}
+
+.bubble3 {
+  --bubble-size: 3.5rem;
+  --origin-transform: calc(25% - var(--bubble-size) / 2);
+
+  top: var(--origin-transform);
+  left: var(--origin-transform);
+  animation-delay: 0.2s;
+}
+
+.bubble4 {
+  --bubble-size: 8rem;
+  top: calc(20% - var(--bubble-size) / 2);
+  left: calc(36% - var(--bubble-size) / 2);
+  animation-delay: 0.3s;
+}
+
+.custom-bubble1 {
+  --bubble-size: 5rem;
+
+  top: 500px;
+  left: 1000px;
+  animation-delay: 0.3s;
+}
+
+.custom-bubble1 .butterfly_container {
+  transform: scale(0.7);
+}
+
+.custom-bubble1 * {
+  animation-delay: 0.3s !important;
+}
+
+.custom-bubble2 .butterfly_container {
+  transform: scale(1.1);
+}
+
+.custom-bubble2 * {
+  animation-delay: 0.1s !important;
+}
+
+.custom-bubble3 .butterfly_container {
+  transform: scale(1.2);
+}
+
+.custom-bubble3 * {
+  animation-delay: 0.6s !important;
+}
+
+.custom-bubble2 {
+  --bubble-size: 7rem;
+
+  top: 200px;
+  left: 1110px;
+  animation-delay: 0s;
+}
+
+.custom-bubble3 {
+  --bubble-size: 8rem;
+
+  top: 350px;
+  left: 1310px;
+  animation-delay: 0.1s;
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    transform: translateY(-10%);
+  }
+  50% {
+    transform: translateY(10%);
+  }
+}
+
+.bubble::after,
+.bubble::before {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  background: #fff;
+  z-index: 10;
+  filter: blur(calc(var(--bubble-size) / 75));
+  transition: var(--transition);
+}
+
+.bubble::before {
+  top: 25%;
+  left: 22.5%;
+  width: calc(var(--bubble-size) / 6.7);
+  height: calc(var(--bubble-size) / 6.7);
+}
+
+.bubble::after {
+  top: 40%;
+  left: 40%;
+  width: calc(var(--bubble-size) / 10);
+  height: calc(var(--bubble-size) / 10);
+}
+
+.bubble span {
+  position: absolute;
+  border-radius: 50%;
+  transition: var(--transition);
+}
+
+.bubble span:first-child {
+  inset: calc(var(--bubble-size) / 20);
+  border-left: calc(var(--bubble-size) / 13.3) solid var(--inset-color1);
+  filter: blur(calc(var(--bubble-size) / 25));
+}
+
+.bubble span:nth-child(2) {
+  inset: calc(var(--bubble-size) / 20);
+  border-right: calc(var(--bubble-size) / 13.3) solid var(--inset-color2);
+  filter: blur(calc(var(--bubble-size) / 25));
+}
+
+.bubble span:nth-child(3) {
+  inset: calc(var(--bubble-size) / 10);
+  border-top: calc(var(--bubble-size) / 13.3) solid var(--inset-color3);
+  filter: blur(calc(var(--bubble-size) / 25));
+}
+
+.bubble span:nth-child(4) {
+  inset: calc(var(--bubble-size) / 6.7);
+  border-left: calc(var(--bubble-size) / 13.3) solid var(--inset-color2);
+  filter: blur(calc(var(--bubble-size) / 16.7));
+}
+
+.bubble span:nth-child(5) {
+  inset: calc(var(--bubble-size) / 20);
+  border-bottom: calc(var(--bubble-size) / 20) solid var(--inset-color4);
+  filter: blur(calc(var(--bubble-size) / 25));
+  transform: rotate(330deg);
+}
