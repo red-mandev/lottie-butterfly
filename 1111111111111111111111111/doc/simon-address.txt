@@ -1,0 +1,67 @@
+Simon Andrews 
+
+Plougslundvej 113, 7190 Billund, DK  - 161094
+
+
+https://www.linkedin.com/in/simon-andrews-46974a305
+
+https://www.linkedin.com/jobs/search/?currentJobId=3926275358&f_C=22073411&f_WT=2&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER
+
+
+-------------summary---------------------------
+With over 9 years of professional experience, I am a highly skilled Senior Full Stack Engineer adept at leveraging technologies to deliver high-quality software solutions. Experienced in all phases of the project life cycle, I have a proven track record in diverse industries, including e-commerce and real-estate, etc. My expertise includes rigorous testing, performance optimization, and cross-functional teamwork within Agile environments
+
+---------------cover---------------
+
+
+Dear Hiring Manager
+I am writing to express my strong interest in this position at your company. With a passion for coding and a proven track record of delivering high-quality software solutions, I am confident that my skills and experience make me an ideal fit for this role.
+
+If you accept, I am working hard to complete your project
+
+I am eager to engage in an interview to discuss it
+
+
+----------------------
+
+I’m looking for new challenges to broaden my horizons.
+And I feel that your company is the perfect place for me to challenge myself and push my limits
+
+---------------
+
+Hi
+Hope you're doing well
+I'm appealing to request an assistance with my account
+Today, my account is restricted unexpectedly
+And then, I tried to verify myself but I faced this message "You have already submitted"
+Please take a look at my account(https://www.linkedin.com/in/simon-andrews-46974a305) and let me have this issue fixed
+Best regards,
+Simon Andrews
+
+----------------------
+
+Kubernetes
+Practical experience in Software Development Life Cycle (SDLC) including Agile/SCRUM and Waterfall
+
+
+In Next.js, I have experience with 4 years, As a Full Stack Developer, it's 7 years
+
+Shortly, We sometimes use Next for SEO 
+With this, Backend is Spring Boot
+There are two problems.
+First is SEO, so we can use getInitialProps  function,
+Second is routing, I use previous framework-React, but when I start to use next, it's different in routing side.
+
+Next.js provides built-in support for server-side rendering (SSR), which can improve the SEO performance of web applications by ensuring search engines can properly crawl and index the content.
+
+As a backend, I always use Express.js, But it's big project or need a high performance
+I shortly designed REST API with Database
+
+
+Some common considerations when working with RESTful APIs and microservices include ensuring API consistency, managing service dependencies, minimizing latency, handling complex error scenarios, and coordinating synchronous communication between services.
+
+
+I always use SQL within E-commerce 
+
+30EUR / hourly
+

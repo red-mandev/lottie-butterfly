@@ -1,0 +1,17 @@
+----------angular--------------
+* Contributed to the development of model-driven and template-driven forms in Angular 10/12/14.
+* Created responsive UI web pages with HTML5, CSS3, Angular 6 & 8, JavaScript, TypeScript, Node JS, and utilized Angular filters in expressions and directives for UI data filtering.
+* Optimized application performance through Angular 8 Component development in anticipation of future Angular transitions.
+* Integrated Java code (API) into JSP pages and responsible for setting up Angular framework for UI development.
+* Utilized Angular 12 to develop Single Page Applications (SPAs) and UI pages, employing HTML5, Bootstrap, CSS3, SASS, JavaScript, jQuery, and AJAX for implementation.
+Expert in developing User Interface (UI) Applications and professional Web Applications using Web Standards, HTML5, CSS3, Object Oriented JavaScript, Angular JS, Angular 5, React.js, Backbone.js, Node.js, MongoDB, jQuery, angular material, Ajax Concepts, CSS3 Media Queries.
+• Extensive experience in building single page applications (SPA) using Angular with expertise in creating User Controls, Web Forms and client-side validations using JavaScript, jQuery and Angular.
+• Experience in developing modern web applications using Angular 2/4, Node.js, React.js, Express.js Vue Js and Mongo DB.
+• Experience in developing web applications and interactive software products using HTML5, CSS3, JavaScript, jQuery, Angular JS, NGRX, DHTML, Bootstrap, JSON, SASS and AJAX.
+• Experience in Redux and NgRX store to manage the state, subscribing and unsubscribing the state changes and dispatching actions in Angular 11. 
+
+
+
+Looking for an expert with web experience to rewrite an IT developer resume. Must have excellent reviews and relevant experience. Please place a placeholder bid and let's discuss!
+
+*Please submit your resume for consideration. I look forward to reviewing it.*

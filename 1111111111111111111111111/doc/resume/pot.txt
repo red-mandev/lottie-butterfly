@@ -1,0 +1,117 @@
+example of Danish site urls in real estate industry with beautiful UI design implementation
+
+
+
+visit https://www.lokalebasen.dk
+
+url-
+Title(About)-
+Technologies used-
+Functionalities-
+Company name-
+Company informatio-
+
+
+I participated to developed https://www.noo.ma/
+give me functionalities for explainning answer of interview
+
+give me each functionalities and work experience of tech stack for explainning answer of interview
+
+I participated to developed https://memoria21.basetis.com/
+give me functionalities(long) and  its implemente way tech stack for explainning answer of interview 
+
+
+https://www.stepstone.de/job/ab4b4424-dd91-4937-8050-3aa450e0f2fc/application/external/cv-upload?locale=en_DE&source=ijmde&CID=R_EM_IJM_DE_ST_top_match_3_b5_02062024_IJM_NEN_A_jobApply&ijmab=IJM_NEN_A&offer_position=1
+
+---------------------------link-----------
+https://www.bigjohn.dev/#home                          1
+https://dragonwarrior.vercel.app/
+https://jiseeeh.vercel.app/                           https://github.com/Jiseeeh/portfolio
+https://lakshanrukantha.github.io/
+https://emmajs.vercel.app/#contact                   https://github.com/emmaGH1/Portfolio
+https://www.supacode.dev/#about
+https://mohamedzhioua.vercel.app/en                    1 1
+https://www.chintristan.io/                            1
+https://t3kraj.netlify.app/
+https://allanmuturi.vercel.app/             https://github.com/allan-1/Portfolio-react            9
+https://aditya.medhe.in/                              						  1
+https://vikas-ukani.github.io/          https://github.com/vikas-ukani/react-next-portfolio-dev
+https://www.chintristan.io/
+https://www.supacode.dev/#about       https://github.com/supacode/supacode.dev
+https://www.angelmtz.dev/               https://github.com/angelmtztrc/portfolio
+https://www.benrogers.dev/#projects        https://github.com/ben04rogers/portfolio-v2/              0
+https://bowanglan.dev/                        https://github.com/BowangLan/bowang-lan-portfolio
+https://www.bsodium.fr/                    https://github.com/BSoDium/
+
+
+
+https://alejandro-gomez.vercel.app/apps/realtor-template-1           like vscode
+https://yashdatir.github.io/profile-os/
+https://vivek9patel.github.io/
+https://pratham2002.github.io/
+awwwards.com
+nice
+
+
+
+-------------------------------cover--------------------------
+If you are looking for a motivated, safe set of hands to take the weight of your project off your shoulders and work with you to get the job done right, then let’s have a chat.
+-----------------------------------
+I'm a professional software engineer with a passion in Full-Stack and blockchain & cryptocurrencies. I always stand on best practices and principles of software engineering, providing high-quality solutions and follow the latest trends and technologies.
+
+1. CMS (WordPress, Shopify, Magento)
+- AI Integration: Integrated various Generative AI tools into WordPress, Shopify, and Magento projects.
+- Performance Boost: Enhanced website performance through elastic search optimization techniques.
+
+2. Front-end Development
+- Responsive Interfaces: Designed elegant, responsive user interfaces with reusable Single File Components (SFCs) in React and Vue.
+- SEO and Load Speed: Crafted web pages optimized for SEO and fast loading using frameworks like Next.js and Gatsby.js.
+- Performance Improvements: Implemented lazy loading and page splitting to improve application performance.
+- CSS Frameworks: Deep expertise in CSS frameworks and design libraries, with strong skills in HTML and CSS.
+- Design Accuracy: Achieved pixel-perfect websites that closely match Figma designs.
+- Extensive Testing: Conducted thorough unit, integration, and end-to-end tests using tools like React Testing Library, Enzyme, and Cypress.
+
+3. Back-end Development
+- Application Building: Created monolithic and microservice backend applications with Node.js, Django, and Laravel.
+- Database Skills: Proficient in SQL queries and using ORM libraries (TypeORM, Prisma) for database interactions.
+- GraphQL Development: Developed GraphQL schemas, queries, and mutations.
+- Database Expertise: Experienced with SQL databases (MySQL, PostgreSQL, SQL Server) and NoSQL databases (MongoDB).
+- CI/CD and Deployment: Automated application deployment using CI/CD scripts with CircleCI and tools like Docker, Kubernetes, and AWS.
+- Search Optimization: Integrated ElasticSearch to boost search speed and performance.
+- Data Caching: Used Redis and Memcached for backend data caching to enhance performance.
+- Authentication Services: Implemented authentication solutions using Firebase and Auth0.
+
+4. Blockchain & Web3 Development
+- Smart Contract Development: Created smart contracts, scripts, and unit tests using Solidity and Rust.
+- Blockchain Deployment: Deployed smart contracts on Ethereum, BSC, Polygon, and Cosmos networks.
+- Verification and Testing: Verified smart contracts on Etherscan and tested them with Remix and Ganache.
+- Smart Contract Integration: Integrated smart contracts into frontend applications using web3.js/ethers.js.
+- dApp Development: Built decentralized applications (dApps) including DeFi, DAOs, and NFT marketplaces.
+- Cosmos SDK: Specialized in Cosmos SDK, CosmWasm, and developing application-specific blockchains with Starport.
+
+
+
+
+Hello, Welcome to my Upwork 
+If You Are Looking for a motivated, Safe set of hands to take the Weight of your project off your shoulders and Work with you to Get the Job done right, then Let’s have an interview.
+
+As a highly skilled and passionate Full Stack Engineer with expertise in the latest software engineering technologies, I'm dedicated to creating innovative and scalable software solutions.
+I specialize in delivering clean, scalable, and maintainable code while adhering to agile principles and prioritizing business needs. My expertise allows me to work effectively with clients of any size, from startups to large enterprise teams.
+
+➡ Frontend Development
+	Html, CSS, JavaScript and jQuery(Bootstrap)
+	React/Next.js for S
+	Vue/Nuxt
+	Angular 14+
+	TailWindCss
+➡ Backend Development
+	Node.js/Express.js/Nest.js
+	Java/Spring
+	Python/Django/Flask
+	PHP/Laravel
+➡ Blockchain Web3 Development
+	
+➡Cloud Development
+	
+➡ CMS Development
+	WordPress, Shopify, Wix, Joomla, Drupal, Weebly, Squarespace, Webflow

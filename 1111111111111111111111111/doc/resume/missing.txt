@@ -1,0 +1,262 @@
+Engineered visually stunning user interfaces for interactive ad creatives and landing pages using React and Tailwind CSS, resulting in a 40% increase in click-through rates and a 25% boost in conversion rates.
+•  Revamped user interfaces for interactive ad creatives and landing pages through React and Tailwind CSS, achieving a 50% decrease in bounce rates and a 30% surge in user engagement metrics.
+
+•  Architected cutting-edge Spring Boot backend services, leveraging DynamoDB and Amazon API Gateway to power a dynamic React frontend dashboard with real-time analytics, optimizing performance and scalability for increased user adoption and retention rates.
+•  Developed and implemented Spring Boot backend services utilizing DynamoDB and Amazon API Gateway to deliver real-time analytics data for a React frontend dashboard, seamlessly integrating REST APIs to enhance user experience and increase engagement metrics.
+
+
+https://www.linkedin.com/in/ananda-magar/        https://github.com/anandakmagar
+https://www.linkedin.com/in/joel-patrick-llosa-b609aa183/
+https://www.linkedin.com/in/n-bharati-297640281/
+https://www.linkedin.com/in/mohammad-sadhik-shaik-5a5138279/
+https://www.linkedin.com/in/andre-locsin/
+https://www.linkedin.com/in/patrickgunnar/
+https://www.linkedin.com/in/sonal-rama-tiwari-254383279/
+https://www.linkedin.com/in/prudhvi-nath-/         many
+
+
+-------summary
+https://www.linkedin.com/in/daskapil/                       summary
+https://www.linkedin.com/in/mike-cass/
+https://www.linkedin.com/in/jarrodpayton/   interest
+--------angular
+https://www.linkedin.com/in/maksym-yaremenko/
+https://www.linkedin.com/in/vineethreddy-9195b7140/       angular
+https://www.linkedin.com/in/maheswar-reddy-007/ poto
+https://www.linkedin.com/in/sneha-v-b3b860242/                JavaScript | TypeScript | Angular | ReactJs | NodeJs |
+https://www.linkedin.com/in/ramya-sri-2a27aa278/
+https://www.linkedin.com/in/sai-chennupati/ 			React/ Angular Developer / MEAN/MERN Stack Developer
+
+https://github.com/daniellee?tab=overview&from=2024-05-01&to=2024-05-17
+
+
+Hibernate/JPA
+JMS/Kafka/MQ
+Kubernetes
+Docker, 
+
+Messaging queues with Kafka
+
+
+----------------------React----------------
+Experience with JavaScript (ES6), React JS, and Redux
+Ability to write well-formatted, structured and clean code that interacts with backend technologies
+Experience with Javascript testing tools (we use Jest, Cypress)
+Experience with modern front-end build pipelines and tools (we use webpack)
+Experience with micro-frontends, CI/CD pipelines 
+Experience with designing tracking implementations to measure user interactions & engagement
+Worked as part of a Scrum team in the past
+Optional but big plus: 
+Experience with TypeScript
+Experience with GraphQL
+Experience with Code Push
+Experience with Docker/Kubernetes
+Angular CLI, Clean Coding, Nginx, RxJS, and Test-Driven Development
+
+
+
+-------------Java Backend -------------------------
+Strong Spring experience with Spring Boot, Rest, JPA, Data
+
+A BSc or MSc degree in Computer Science, Mathematics, Engineering or other related field
+Working experience with Java Spring MVC Framework, Bootstrap, Javascript, Web services (Rest&SOAP), Spring version 4.2.1, Maven compiler, Mybatis, Postresql
+Team building skills
+Effective prioritization whilst managing multiple projects at the same period
+A flexible, multitasking, detail-oriented and positive professionalism
+Experience of the insurance industry is a strong plus
+Backend Development: Design, develop, and maintain server-side applications using Java and related technologies.
+· API Development: Create and maintain RESTful APIs to facilitate communication between the front-end and the server.
+· Database Management: Design and implement database schemas, optimize queries, and ensure data integrity.
+· Performance Optimization: Identify and resolve performance bottlenecks in the application, including optimizing database queries and server-side code.
+· Testing: Write unit tests, integration tests, and perform code reviews to ensure the quality and reliability of the codebase.
+· Collaboration: Work closely with cross-functional teams, including front-end developers, product managers, and QA engineers, to ensure successful project delivery.
+· Problem Solving: Troubleshoot and resolve technical issues, including debugging and root cause analysis.
+· Code Maintenance: Keep abreast of industry trends and best practices and apply them to ongoing projects.
+ Strong experience with Java 11, java.util, java.util.concurrent, Spring / Spring Boot, JDBC / Hibernate;
+Messaging queues with Kafka
+3+ years of experience in backend development - Java microservices, Java based REST/GraphQL API in microservice service based architecture.
+Excellent knowledge of Java EE technologies as well as Java application servers;
+
+
+
+---------------python react--------------------------
+Mastery of frameworks and associated libraries (Django, Flask, React), Knowledge of .Net environments (C#)
+Experience with Artificial Intelligence techniques and tools (machine learning, deep learning, frameworks such as TensorFlow, PyTorch, etc.).
+Good knowledge of relational and non-relational databases (SQL, NoSQL).
+Expert knowledge of FastAPI and experience designing RESTful APIs. 
+
+
+---------------------dev------------------
+Demonstrates consistency in quality and quantity of code, while handling complex tasks independently from beginning to end
+Strong software development skills with an ability to stay current with the latest technologies
+Proven ability to handle big data, optimize workflows, and improve system performance. 
+Experience in developing and maintaining cloud-based distributed computing and processing technologies like Kafka, Redis and RabbitMQ. 
+Experience with testing frameworks like jUnit, Mockito;
+Experience with CI/CD processes and cloud-based services /preferably with AWS/;
+ Strong knowledge of OOP / SOLID principles, data structures, algorithms;
+Cloud experience – AWS / GCP / Azure
+Experience with continuous integration, unit and integration testing
+Solid expertise in building scalable, distributed, loosely coupled systems
+Knowledge of Scrum and agile principles
+Experience with database technologies (AWS DynamoDB, AWS RDS, MS SQL Server etc.)
+3 years of AWS development Cloud experience with hands on – EC2, ECS, S3, Lambda, RDS, CloudWatch (not all is mandatory, but some is good)
+JMS/Kafka/MQ
+
+
+--------------------------- Python---------------------------
+
+You’ll work with the following stack: Python, Django, Django REST, SQL Alchemy, React, MySQL, S3, RabbitMQ, Redis, Docker.
+
+
+
+
+---------------industires-------------------
+Real Estate
+
+Education
+
+Accounting
+
+Advertising
+
+Architecture
+
+Automobile Engineering
+
+Aviation
+
+Computer hardware
+
+Business
+
+Computers and information technology
+
+Construction
+
+Consumer services
+
+Educational management
+
+Electronics
+
+Farming
+
+Financial services
+
+Health care
+
+Hospitality
+
+Management consulting
+
+Manufacturing
+
+Marketing
+
+Media
+
+Medicine
+
+
+Retail
+
+
+
+
+
+
+
+
+-framework 
+   web
+        javascript - react/next,   vue/Nuxt, angluar,    node/express,   TailwindCSS
+        python - django,   Ruby on Rails
+        php      -    laravel,
+        java     - spring, 
+-datase
+        SQL, Postgre, mongo
+
+-tech
+      SEO/SSR, 
+   AWS, Azure,  GCP
+     Git,   
+
+
+-software
+    SDLC,  
+Jest and Cypress,CI/CD,DevOps     UX/UI,      Agile,   Docker
+
+
+Analyzed
+Directed
+Authored
+Prepared
+Implemented
+Collaborated
+Liaised
+Assessed
+Improved
+Awarded
+Designed
+Defined
+Guided
+Revamped
+Proposed
+Advised
+Conducted
+Arranged
+Budgeted
+Composed
+Conceived
+Controlled
+Eliminated
+Investigated
+Modernised
+Operated
+Organised
+Planned
+Processed
+Produced
+Redesigned
+Reduced
+Refined
+Resolved
+Revised
+Scheduled
+Simplified
+Solved
+Streamlined
+Transformed
+Devised
+Established
+Generated
+Initiated
+Introduced
+Launched
+Led
+Pioneered
+Promoted
+Started
+Combined
+Consolidated
+Converted
+Decreased
+Expanded
+Increased
+Innovated
+Minimised
+Reorganised
+Restructured
+Saved
+Serviced
+Unified
+Accelerated
+Achieved
+Completed
+Convinced
+Discovered
+Effected
+Mastered
+Revitalized
+Spearheaded
+Upgraded

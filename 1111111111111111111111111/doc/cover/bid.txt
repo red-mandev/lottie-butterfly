@@ -1,0 +1,72 @@
+Dear Client,
+
+My name is Matthew Fallick and I'm interested in your job sincerely.
+I'm a senior full-stack developer with 7+ years of strong experience in developing company products
+Your satisfaction would be guaranteed by my proficiency in Flutter and Chrome extension development
+
+With my professional skills and insight, I am confident in delivering a high-quality solution that meets your requirements.
+
+Respecting client's ideas and requirements is paramount to me. I view this opportunity as a chance to expand my experience and cultivate strong client relationships on Upwork. I would be delighted if you reached out to me.
+
+Incorporating my insights into your project, I am supposed to leverage Flutter's versatility to create a Chrome extension that seamlessly integrates with the currently displayed tab
+
+Are there any authentication or authorization requirements for accessing and manipulating user data within the Chrome extension?
+
+Looking forward to your answer
+kindly
+
+
+Hi [Client's Name],
+
+Good day! My name is Dang and I am a React.js developer with extensive experience in creating dynamic and responsive web applications. I have recently joined Upwork, but I come with a strong background in working with major brands like Estee Lauder.
+
+In my previous role at Estee Lauder, I played a pivotal role in developing their blog pages using React.js. During this project, I utilized the react-grid-gallery package to seamlessly display their image content. My expertise with this library extends to customizing its features and understanding its parameters, such as Custom Image Component and Thumbnail Captions.
+
+Given my experience and skills, I believe I am well-equipped to address any needs you may have related to the react-grid-gallery or any other React.js development requirements. I am confident that I can make a valuable contribution to your project and ensure its success.
+
+
+
+
+
+Good afternoon Maansi,
+
+I am delighted to have the chance to apply for this opportunity. As you can see from my profile, I worked as a senior software engineer at Estee Lauder, one of the largest cosmetic companies in the world.
+
+Regarding this opportunity, I have a deep understanding of E-Commerce platform and extensive experience with PHP. I am very familiar with MVC frameworks like Laravel, Yii, Zend, Codeigniter, and others. Without a doubt, I am capable of fixing any issues promptly and wrapping them up perfectly.
+
+https://www.esteelauder.com
+
+I have a couple of questions
+- How many bugs did you face on?
+- What is the critical issues in this platform
+- Which framework are you using in this project?
+
+Please feel free to reach out
+Best,
+Dang
+
+
+Hi,
+I'm glad that I met what a perfect match for my qualification and work experience
+As a senior WordPress developer with over 8 years of strong experience, I have
+developed lots of Wordpress/Woocommerce websites, apps, plugins for clients
+
+Incorporating my professional insights to your project, My suggested timeline is as below and
+I'd be appreciated if you take a careful look at it
+
+Up to 2 days
+- Listen to CreateOrder and pushes order data to our APIs
+- Listen to order delivered, notify our APIs
+- The plugin should continue working even if Woocommerce is not installed.
+- Make the plugin ready for submission
+
+Up to 1 days
+- PCP checks are passed https://wordpress.org/plugins/plugin-check/
+- Optional: Make the plugin draggable into Elementor or alternative (to be discussed)
+
+
+Looking forward to hearing from you and I'm available at any time to discuss further
+and start on your project
+
+Best regards
+Jared
